@@ -15,5 +15,6 @@ int main(){
  printf("data is changing");
  pritnf("a is b");
  printf("finally test");
+ printf("aa");
  return 0;
 }

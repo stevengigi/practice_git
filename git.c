@@ -12,5 +12,6 @@ int main(){
  printf("cpow(b): %f +%f i",creal(cpow(b)),cimag(cpow(b)));
  end=clock();
  printf("time:%f",end-start);
+ printf("data is changing");
  return 0;
 }

@@ -13,5 +13,6 @@ int main(){
  end=clock();
  printf("time:%f",end-start);
  printf("data is changing");
+ pritnf("a is b");
  return 0;
 }

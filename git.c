@@ -16,5 +16,6 @@ int main(){
  pritnf("a is b");
  printf("finally test");
  printf("aa");
+ printf("bb");
  return 0;
 }

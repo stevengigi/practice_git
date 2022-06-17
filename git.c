@@ -14,5 +14,6 @@ int main(){
  printf("time:%f",end-start);
  printf("data is changing");
  pritnf("a is b");
+ printf("finally test");
  return 0;
 }

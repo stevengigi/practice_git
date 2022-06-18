@@ -3,7 +3,12 @@
         {
             "name": "Win32",
             "includePath": [
+<<<<<<< HEAD
                 "${workspaceFolder}/**"
+=======
+                "${workspaceFolder}/**",
+                "D:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"
+>>>>>>> d05e211 (a)
             ],
             "defines": [
                 "_DEBUG",

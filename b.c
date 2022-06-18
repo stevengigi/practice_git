@@ -1,6 +1,4 @@
 #include<stdio.h>
-
-int main(){
- printf("a");
+int mian(){
  return 0;
 }
